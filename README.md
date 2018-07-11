@@ -42,6 +42,8 @@ A curated list of blockchain-related academic papers.
 - [Tendermint: Consensus without Mining](https://tendermint.com/docs/tendermint.pdf). Jae K. 2014
 - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://iohk.io/research/papers/#9BKRHCSI). Aggelos K, Alexander R, Bernardo D, ROman O., 2017
 - [Composable Proof-of-Stake Blockchains with Dynamic Availability](https://iohk.io/research/papers/#AQZE2XCV). Christian B, Peter G, Aggelos K, Alexander R, Vassilis Z., 2018
+- [The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf), David M, 2016
+- [The Ripple Protocol Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf), David W, Noah Y, Arthur B, 2014
 
 ## Cryptography
 
@@ -205,13 +207,25 @@ A curated list of blockchain-related academic papers.
 - [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf). Benet J. '15
 - [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. '17
 
-## Whitepapers & Yellowpapers
+## Whitepapers & Yellowpapers & introduction to specificic cryptocurrencies
 
 - [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper). Vitalik B, 2014
 - [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER BYZANTIUM VERSION e94ebda - 2018-06-05](https://ethereum.github.io/yellowpaper/paper.pdf). Gavin W, 2018
 - [Beigepaper: An Ethereum Technical Specification](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf). Micah Dameron, 2018
-- []()
-
+- [Namecoin](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2014-08-1/NET-2014-08-1_14.pdf). Andreas L, 2014
+- [PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake](https://peercoin.net/assets/paper/peercoin-paper.pdf). Sunny K, Scott N., 2012 a.k.a peercoin whitepaper
+- [Nxt Whitepaper](https://www.dropbox.com/s/cbuwrorf672c0yy/NxtWhitepaper_v122_rev4.pdf), Nxt Community, 2014
+- [Neo Whitepaper - A distributed network for the Smart Economy](http://docs.neo.org/en-us/), NEO, 2014
+- [Tether: Fiat currencies on the Bitcoin blockchain](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf), tether website, 2016
+- [EOS.IO Technical White Paper v2](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md), block.one,2018
+- [Smart-Contract Value-Transfer Protocols on a Distributed Mobile Application Platform](https://qtum.org/user/pages/03.tech/01.white-papers/Qtum%20Whitepaper.pdf), Patrick D, Neil M, Jordan E, Alex N, 2017 a.k.a Qtum whitepaper
+- [Tron Whitepaper](https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf), tron.network, 2017
+- [The Tangle](http://iotatoken.com/IOTA_Whitepaper.pdf), Serguei P, 2017 a.k.a Iota Whitepaper
+- [Tendermint: Consensus without Mining](https://tendermint.com/docs/tendermint.pdf). Jae K. 2014
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://iohk.io/research/papers/#9BKRHCSI). Aggelos K, Alexander R, Bernardo D, ROman O., 2017
+- [The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf), David M, 2016
+- [The Ripple Protocol Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf), David W, Noah Y, Arthur B, 2014
+- [Dash: A Privacy-Centric Crypto-Currency](https://github.com/dashpay/dash/wiki/Whitepaper), Evan D, Daniel D, 2015
 
 ## License
 
