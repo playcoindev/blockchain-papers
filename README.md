@@ -39,6 +39,9 @@ A curated list of blockchain-related academic papers.
 - [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf). Kiayias A, Panagiotakos G. '16.
 - "RSCoin": [Centrally banked cryptocurrencies](https://arxiv.org/pdf/1505.06895.pdf). Danezis G, Meiklejohn S. '15.
 - [Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://socrates1024.s3.amazonaws.com/consensus.pdf). Miller A, LaViola JJ Jr. '14.
+- [Tendermint: Consensus without Mining](https://tendermint.com/docs/tendermint.pdf). Jae K. 2014
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://iohk.io/research/papers/#9BKRHCSI). Aggelos K, Alexander R, Bernardo D, ROman O., 2017
+- [Composable Proof-of-Stake Blockchains with Dynamic Availability](https://iohk.io/research/papers/#AQZE2XCV). Christian B, Peter G, Aggelos K, Alexander R, Vassilis Z., 2018
 
 ## Cryptography
 
@@ -202,9 +205,17 @@ A curated list of blockchain-related academic papers.
 - [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf). Benet J. '15
 - [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. '17
 
+## Whitepapers & Yellowpapers
+
+- [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper). Vitalik B, 2014
+- [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER BYZANTIUM VERSION e94ebda - 2018-06-05](https://ethereum.github.io/yellowpaper/paper.pdf). Gavin W, 2018
+- [Beigepaper: An Ethereum Technical Specification](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf). Micah Dameron, 2018
+- []()
+
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released into the public domain.
+
